@@ -11,7 +11,8 @@ Key highlights:
 </h4>
 
 <h2>Results/tables:
-![image](https://github.com/user-attachments/assets/52fd0bb0-e230-418d-a46f-ab0fe1be800c)
+![image](https://github.com/user-attachments/assets/7858b600-5ad8-432e-84d6-c2da734b5830)
+
 
 ![image](https://github.com/user-attachments/assets/3a8eeac9-3a48-4dd5-a836-008d321c7040)
 
